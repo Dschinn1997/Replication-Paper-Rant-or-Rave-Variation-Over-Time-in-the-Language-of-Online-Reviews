@@ -10,7 +10,7 @@ The "Data" folder includes a markdown file that states the links where the compl
 
 
 ## Project Overview
-This repository contains the code for one of my master's second semester term papers for the course "Web & Society: A Computational Social Science Perspective". For the term paper we, Trinidad Bosch Achondo and I, investigated the role of bots on social media given the widespread concern about an "malicious social bot pandemic". Thereby, we focused on analyzing the topics bots discuss, the sentiments they convey, and if we find indications for malicious intentions.
+This repository contains the code for one of my master's fourth semester term papers for the course "Social Media Data Analysis". For the term paper we, Trinidad Bosch Achondo and I, investigated the role of bots on social media given the widespread concern about an "malicious social bot pandemic". Thereby, we focused on analyzing the topics bots discuss, the sentiments they convey, and if we find indications for malicious intentions.
 
 ## Objectives
 - Identify the main topics discussed by social media bots and valid users.
