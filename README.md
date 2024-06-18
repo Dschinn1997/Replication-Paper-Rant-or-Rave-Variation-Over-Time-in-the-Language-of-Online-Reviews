@@ -12,6 +12,11 @@ The "Data" folder includes a markdown file that states the links where the compl
 ## Project Overview
 This repository contains the code for one of my master's fourth semester term papers for the course "Social Media Data Analysis". For the term paper we, Trinidad Bosch Achondo and I, investigated the role of bots on social media given the widespread concern about an "malicious social bot pandemic". Thereby, we focused on analyzing the topics bots discuss, the sentiments they convey, and if we find indications for malicious intentions.
 
+This repository contains the code for one of my master's third semester projects for the course "Computational Modelling of Social Systems". In this course our task was to select a publication is based on an agent-based model (ABM) and write a review report about it. If feasible we should also try to replicate the publication or parts of it, yet that was not mandatory as many ABMs are too complicated to implement them within the course's time. I choose to review the publication:
+
+Couzin, I. D., Ioannou, C. C., Demirel, G., Gross, T., Torney, C. J., Hartnett, A., ... & Leonard, N. E. (2011). Uninformed individuals promote democratic consensus in animal groups. science, 334(6062), 1578-1580.
+The publications centers around spatial model for collective-decision making processes. Due the course of my review report I tried to replicate Counzin et al's (2011) finding that “self-interested and strongly opinionated minorities can exert their influence on group movement decisions” and so their publication's Figure 1. The code of this repository gives this replication attempt.
+
 ## Objectives
 - 
 
