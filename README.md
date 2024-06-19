@@ -28,15 +28,14 @@ The publications centers around spatial model for collective-decision making pro
 
 ## Repository Contents
 - `script`: Jupyter notebook that contains the the whole project's code including the data collection, preprocessing, and analysis.
-- `requirements`: List of Python packages required to run the project.
 - `report`: PDF of final term paper.
+- 
 
 ## Installation
 To run the code in this repository, you'll need to have Python installed. Clone this repository and install the required packages using:
 
 git clone [repository-link]
 cd [repository-name]
-pip install -r requirements.txt
 
 ## Contact
 For any questions or further information, please contact:
