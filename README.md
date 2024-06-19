@@ -24,12 +24,12 @@ This paper focuses on how the language of online reviews has changed over the la
 - `script`: Jupyter notebook that contains the the whole project's code including the data loading, preprocessing, sampling, and analysis.
 - `report`: PDF of final term paper.
 - `emoji_utf8_lexicon`:
-- `vader`:VADER sentiment analysis tools as used by Ziser et al. (2023). Accessed from the authors Github repository https://github.com/yftah89/ReviewsOverTime
+- `vader`: VADER sentiment analysis tools as used by Ziser et al. (2023). Accessed from the authors Github repository https://github.com/yftah89/ReviewsOverTime
 - `vader_lexicon`: vader lexicon versions containing sentiments as used by Ziser et al. (2023). Accessed from the authors Github repository https://github.com/yftah89/ReviewsOverTime
 - Data folder: Folder includes a markdown file that states the links where the analysis's data sets can be downloaded, as they cannot be directly uploaded due to their size.
 - Results folder: Folder stores all of my reproduction and replication analysis results as pickles.
 
-
+**Note:** The repository related to Ziser et al.'s (2023) publication can be found here https://github.com/yftah89/ReviewsOverTime
 
 ## Installation
 To run the code in this repository, you'll need to have Python installed. Clone this repository and install the required packages using:
