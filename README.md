@@ -10,11 +10,11 @@ The "Data" folder includes a markdown file that states the links where the compl
 
 
 ## Project Overview
-This repository contains the code for one of my master's fourth projects for the course "Social Media Data Analysis". In this course we had to do a final project, where one possible task was to select a interesting publication, reproduce its results, replicate its analysis using a different data basis, and write a report about what we found due the reproduction and replication process. I choose to reproduce and replicate the results of the publication:
+This repository contains the code for one of my master's fourth projects for the course "Social Media Data Analysis". In this course we had to do a final project, where one possible task was to select a interesting publication, reproduce its results, replicate its analysis using a different data basis, and write a report about what we found due the reproduction and replication process. I choose to replicate and reproduce the results for one of the three main data sets of the publication:
 
 - Ziser, Y., Webber, B., & Cohen, S. B. (2023). Rant or rave: variation over time in the language of online reviews. Language Resources and Evaluation, 1-31.
 
-The publications centers around spatial model for collective-decision making processes. Due the course of my review report I tried to replicate Counzin et al's (2011) finding that “self-interested and strongly opinionated minorities can exert their influence on group movement decisions” and so their publication's Figure 1. The code of this repository gives this replication attempt.
+The publications focuses on the question how language of online reviews has changed over the past decades. Specifcially centres around the change trends affecting the sentiment intensity, lexical diversity, and comprehensiveness of online reviews.
 
 ## Objectives
 - 
@@ -33,6 +33,8 @@ The publications centers around spatial model for collective-decision making pro
 - `vader_lexicon`:
 - Data folder:
 - Results folder:
+
+https://github.com/yftah89/ReviewsOverTime
 
 ## Installation
 To run the code in this repository, you'll need to have Python installed. Clone this repository and install the required packages using:
