@@ -10,20 +10,23 @@ The "Data" folder includes a markdown file that states the links where the compl
 
 
 ## Project Overview
-This repository contains the code for one of my master's fourth projects for the course "Social Media Data Analysis". In this course we had to do a final project, where one possible task was to select a interesting publication, reproduce its results, replicate its analysis using a different data basis, and write a report about what we found due the reproduction and replication process. I choose to replicate and reproduce the results for one of the three main data sets of the publication:
+This repository contains the code for one of my fourth master's projects for the course "Social Media Data Analysis". In this course we had to do a final project where one possible task was to select an interesting publication, reproduce its results, replicate its analysis using a different dataset, and write a report about what we found due to the reproduction and replication process. I chose to replicate and reproduce the results for one of the three main datasets in the publication:
 
 - Ziser, Y., Webber, B., & Cohen, S. B. (2023). Rant or rave: variation over time in the language of online reviews. Language Resources and Evaluation, 1-31.
 
-The publications focuses on the question how language of online reviews has changed over the past decades. Specifcially centres around the change trends affecting the sentiment intensity, lexical diversity, and comprehensiveness of online reviews.
+This paper focuses on how the language of online reviews has changed over the last few decades. In particular, it focuses on the trends of change that affect the sentiment intensity, lexical diversity and comprehensiveness of online reviews.
 
 ## Objectives
-- 
+- Reproduce the results of Ziser et al. (2023) for one of the three main studied datasets.
+- Replicate the results using a different dataset than originally studied.
 
 ## Key Findings
+- Ziser et al.'s (2023) results are reproducible, which means that reviews increase in the sentiment intensity, reduce in their lexical diversity, and decrease in the general comprehensiveness. These trends are also to a high degree statistically significant.
 - 
 
 ## Technologies and Tools
-- 
+- Natural Language Processing
+- Sentiment Analysis
 
 ## Repository Contents
 - `script`: Jupyter notebook that contains the the whole project's code including the data collection, preprocessing, and analysis.
