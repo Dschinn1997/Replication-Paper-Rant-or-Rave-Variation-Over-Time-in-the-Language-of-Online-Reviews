@@ -24,7 +24,7 @@ This paper focuses on how the language of online reviews has changed over the la
 ## Repository Contents
 - `script`: Jupyter notebook that contains the the whole project's code including the data loading, preprocessing, sampling, and analysis.
 - `report`: PDF of final term paper.
-- `VADER`: Folder includes a markdown file that states the link of the repository linked to Ziser et al.'s (2023) publication, here one can download the VADER sentiment analysis tools, vader lexicon, and emoji lexicon.
+- Sentiment Analysis folder: Folder includes a markdown file that states the link Ziser et al.'s (2023) publication's repository, here one can download the VADER sentiment analysis tools, vader lexicon, emoji lexicon etc. .
 - Data folder: Folder includes a markdown file that states the links where the analysis's data sets can be downloaded, as they cannot be directly uploaded due to their size.
 - Results folder: Folder stores all of my reproduction and replication analysis results as pickles.
 
