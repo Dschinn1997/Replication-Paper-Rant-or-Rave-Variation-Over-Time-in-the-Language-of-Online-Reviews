@@ -1,7 +1,3 @@
-Unfortunately the data sets are too big to be uploaded here, but if you want you can access them over the following links:
+The VADER sentiment analysis tools and lexicon as used by Ziser et al. (2023) can be accessed from the authors Github repository:
 
-
-[Download the files of the IMDb data](https://www.kaggle.com/datasets/ebiswas/imdb-review-dataset)
-
-
-[Download the files of the Yelp data](https://www.yelp.com/dataset)
+[Ziser et al.'s (2023) Github repository](https://github.com/yftah89/ReviewsOverTime)
