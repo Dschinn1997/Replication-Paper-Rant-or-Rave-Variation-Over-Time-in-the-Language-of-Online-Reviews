@@ -29,7 +29,11 @@ The publications centers around spatial model for collective-decision making pro
 ## Repository Contents
 - `script`: Jupyter notebook that contains the the whole project's code including the data collection, preprocessing, and analysis.
 - `report`: PDF of final term paper.
-- 
+- `emoji_utf8_lexicon`:
+- `vader`:
+- `vader_lexicon`:
+- Data folder:
+- Results folder:
 
 ## Installation
 To run the code in this repository, you'll need to have Python installed. Clone this repository and install the required packages using:
